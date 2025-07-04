@@ -10,6 +10,6 @@ public class HW06_Target : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;
-		ExtraModuleNames.Add("HW06_");
+		ExtraModuleNames.AddRange( new string[] { "HW06_", "HW_System" } );
 	}
 }
