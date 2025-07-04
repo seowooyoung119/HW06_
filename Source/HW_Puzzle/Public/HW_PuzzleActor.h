@@ -7,7 +7,7 @@
 #include "HW_PuzzleActor.generated.h"
 
 UCLASS()
-class HW06__API AHW_PuzzleActor : public AActor
+class HW_PUZZLE_API AHW_PuzzleActor : public AActor
 {
 	GENERATED_BODY()
 	

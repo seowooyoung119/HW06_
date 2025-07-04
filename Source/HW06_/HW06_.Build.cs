@@ -8,7 +8,7 @@ public class HW06_ : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "HW_System" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "HW_System", "HW_Puzzle", "HW_Player" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

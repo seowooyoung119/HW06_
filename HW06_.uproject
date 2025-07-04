@@ -12,6 +12,21 @@
 				"Paper2D",
 				"Engine"
 			]
+		},
+		{
+			"Name": "HW_System",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "HW_Puzzle",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "HW_Player",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [

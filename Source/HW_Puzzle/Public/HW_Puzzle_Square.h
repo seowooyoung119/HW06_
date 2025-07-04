@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "HW_PuzzleActor.h"
-#include "MyHW_Puzzle_Crircle.generated.h"
+#include "HW_Puzzle_Square.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class HW06__API AMyHW_Puzzle_Crircle : public AHW_PuzzleActor
+class HW_PUZZLE_API AHW_Puzzle_Square : public AHW_PuzzleActor
 {
 	GENERATED_BODY()
 	

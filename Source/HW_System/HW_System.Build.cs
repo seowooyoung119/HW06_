@@ -10,6 +10,7 @@ public class HW_System : ModuleRules
             new string[]
             {
                 "Core",
+                "HW_Player",
             }
         );
 
@@ -18,7 +19,6 @@ public class HW_System : ModuleRules
             {
                 "CoreUObject",
                 "Engine",
-                "HW06_",
             }
         );
     }

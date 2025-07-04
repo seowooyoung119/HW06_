@@ -7,7 +7,7 @@
 #include "HW_PlayerPawn.generated.h"
 
 UCLASS()
-class HW06__API AHW_PlayerPawn : public APawn
+class HW_PLAYER_API AHW_PlayerPawn : public APawn
 {
 	GENERATED_BODY()
 
